@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Waste Management System",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "https://waste-managemnt-system.000webhostapp.com/",
+      "code": "https://github.com/imlakshay08/Waste-Management-System"
+    }
+  },
+  {
+    "name": "Email/SMS Detection System",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
+    }
+  },
+  {
+    "name": "ShareMe",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": "https://github.com/imlakshay08/ShareMe"
+    }
+  },
+  {
+    "name": "Custom Video Player",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "https://imlakshay08.github.io/Video-Player-using-JavaScript/",
+      "code": "https://github.com/imlakshay08/Video-Player-using-JavaScript"
+    }
+  }
+]
