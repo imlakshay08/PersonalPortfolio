@@ -44,7 +44,6 @@
     "category": "frontend",
     "links": {
       "view": "https://imlakshay08.netlify.app/",
-      "code": ""
     }
   },
   {
@@ -53,7 +52,6 @@
     "image": "pong",
     "category": "java",
     "links": {
-      "view": "",
       "code": "https://github.com/imlakshay08/JavaPongGame"
     }
   }
