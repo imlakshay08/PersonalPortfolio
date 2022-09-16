@@ -50,8 +50,8 @@
   {
     "name": "Pong Game",
     "desc": "It is a simple pong game uilt using Java",
-    "image": "",
-    "category": "",
+    "image": "pong",
+    "category": "java",
     "links": {
       "view": "",
       "code": "https://github.com/imlakshay08/JavaPongGame"
