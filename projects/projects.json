@@ -49,7 +49,7 @@
   },
   {
     "name": "Pong Game",
-    "desc": "It is a simple pong game uilt using Java",
+    "desc": "It is a simple pong game built using Java",
     "image": "pong",
     "category": "java",
     "links": {
