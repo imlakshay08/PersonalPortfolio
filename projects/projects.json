@@ -15,7 +15,6 @@
     "image": "spam",
     "category": "data science",
     "links": {
-      "view": "",
       "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
     }
   },
@@ -25,7 +24,6 @@
     "image": "favicon",
     "category": "full stack",
     "links": {
-      "view": "",
       "code": "https://github.com/imlakshay08/ShareMe"
     }
   },
