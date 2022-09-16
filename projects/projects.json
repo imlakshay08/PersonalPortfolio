@@ -1,9 +1,9 @@
 [
   {
     "name": "Waste Management System",
-    "desc": "",
-    "image": "",
-    "category": "",
+    "desc": "This project is for EcoHacks Hackathon 2022. This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities. ",
+    "image": "capture",
+    "category": "full stack",
     "links": {
       "view": "https://waste-managemnt-system.000webhostapp.com/",
       "code": "https://github.com/imlakshay08/Waste-Management-System"
@@ -11,9 +11,9 @@
   },
   {
     "name": "Email/SMS Detection System",
-    "desc": "",
-    "image": "",
-    "category": "",
+    "desc": "This is an Email/SMS spam detection system, built as a project for AutumnnHacks Hackathon. It classifies messages you recieve on emails and sms as spam or not spam. ",
+    "image": "spam",
+    "category": "data science",
     "links": {
       "view": "",
       "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
@@ -21,9 +21,9 @@
   },
   {
     "name": "ShareMe",
-    "desc": "",
-    "image": "",
-    "category": "",
+    "desc": "A full stack social media web-application made using React, Tailwind CSS and Sanity.",
+    "image": "favicon",
+    "category": "full stack",
     "links": {
       "view": "",
       "code": "https://github.com/imlakshay08/ShareMe"
@@ -31,12 +31,22 @@
   },
   {
     "name": "Custom Video Player",
-    "desc": "",
-    "image": "",
-    "category": "",
+    "desc": "A basic video-player built using JavaScript, HTML and CSS. Access the video-player",
+    "image": "favicon2",
+    "category": "frontend",
     "links": {
       "view": "https://imlakshay08.github.io/Video-Player-using-JavaScript/",
       "code": "https://github.com/imlakshay08/Video-Player-using-JavaScript"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "My personal portfolio website",
+    "image": "portfolio1",
+    "category": "frontend",
+    "links": {
+      "view": "https://imlakshay08-portfolio.netlify.app/",
+      "code": "https://github.com/imlakshay08/PersonalPortfolio"
     }
   }
 ]
