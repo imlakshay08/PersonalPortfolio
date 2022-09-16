@@ -1,7 +1,7 @@
 [
   {
     "name": "Waste Management System",
-    "desc": "This project is for EcoHacks Hackathon 2022. This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities. ",
+    "desc": "This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities. ",
     "image": "capture",
     "category": "full stack",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Email/SMS Detection System",
-    "desc": "This is an Email/SMS spam detection system, built as a project for AutumnnHacks Hackathon. It classifies messages you recieve on emails and sms as spam or not spam. ",
+    "desc": "This is an Email/SMS spam detection system classifies messages you recieve on emails and sms as spam or not spam. ",
     "image": "spam",
     "category": "data science",
     "links": {
@@ -19,7 +19,7 @@
     }
   },
   {
-    "name": "ShareMe",
+    "name": "ShareMe(in progress)",
     "desc": "A full stack social media web-application made using React, Tailwind CSS and Sanity.",
     "image": "favicon",
     "category": "full stack",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Custom Video Player",
-    "desc": "A basic video-player built using JavaScript, HTML and CSS. Access the video-player",
+    "desc": "A basic video-player built using JavaScript, HTML and CSS. Access the video-player - ",
     "image": "favicon2",
     "category": "frontend",
     "links": {
@@ -39,12 +39,22 @@
   },
   {
     "name": "Personal Portfolio",
-    "desc": "My personal portfolio website",
+    "desc": "My personal portfolio website, build using HTML5, CSS3, JavaScript and jQuery. ",
     "image": "portfolio1",
     "category": "frontend",
     "links": {
-      "view": "https://imlakshay08-portfolio.netlify.app/",
+      "view": "https://imlakshay08.netlify.app/",
       "code": "https://github.com/imlakshay08/PersonalPortfolio"
+    }
+  },
+  {
+    "name": "Pong Game",
+    "desc": "It is a simple pong game uilt using Java",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": "https://github.com/imlakshay08/JavaPongGame"
     }
   }
 ]
