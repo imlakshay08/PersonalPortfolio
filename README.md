@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-Special thanks and credits to [@Jager Sable](https://github.com/jigar-sable).
+Special thanks and credits to [@Jiger Sable](https://github.com/jigar-sable).
 
 <a href="https://imlakshay08.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
