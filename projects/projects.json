@@ -1,5 +1,23 @@
 [
   {
+    "name": "GYV - Get Your Venue CRM/ERP",
+    "desc": "Developed a full-stack CRM/ERP for a Delhi-based wedding firm covering event logistics, vendor, and lead management.",
+    "image": "gyv",
+    "category": "ruby on rails",
+    "links": {
+      "view": "https://gyv.inqcrm.in/"
+    }
+  },
+  {
+    "name": "IHM Pusa ERP",
+    "desc": "Built a comprehensive ERP system for IHM Pusa—India’s premier hospitality institute under Ministry of Tourism, Government of India. ",
+    "image": "ihmpusalogo",
+    "category": "ruby on rails",
+    "links": {
+      "view": "https://ihm.inqerp.com/"
+          }
+  },
+  {
     "name": "Waste Management System",
     "desc": "This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities. ",
     "image": "capture",
@@ -19,12 +37,13 @@
     }
   },
   {
-    "name": "ShareMe(in progress)",
-    "desc": "A full stack social media web-application made using React, Tailwind CSS and Sanity.",
-    "image": "favicon",
-    "category": "full stack",
+    "name": "Personal Portfolio",
+    "desc": "My personal portfolio website, build using HTML5, CSS3, JavaScript and jQuery. ",
+    "image": "portfolio1",
+    "category": "frontend",
     "links": {
-      "code": "https://github.com/imlakshay08/ShareMe"
+      "view": "https://imlakshay08.netlify.app/",
+      "code": "https://github.com/imlakshay08/PersonalPortfolio"
     }
   },
   {
@@ -35,16 +54,6 @@
     "links": {
       "view": "https://imlakshay08.github.io/Video-Player-using-JavaScript/",
       "code": "https://github.com/imlakshay08/Video-Player-using-JavaScript"
-    }
-  },
-  {
-    "name": "Personal Portfolio",
-    "desc": "My personal portfolio website, build using HTML5, CSS3, JavaScript and jQuery. ",
-    "image": "portfolio1",
-    "category": "frontend",
-    "links": {
-      "view": "https://imlakshay08.netlify.app/",
-      "code": "https://github.com/imlakshay08/PersonalPortfolio"
     }
   },
   {
